@@ -10,7 +10,23 @@ CC-BY](https://img.shields.io/badge/License-CCBY-blue.svg)](http://creativecommo
     [formations](https://geographie-cites.cnrs.fr/formations-donnees-et-protocoles-dans-les-humanites-numeriques/)
     de l’UMR Géographie-cités
 
-### Documentation
+### TODO par les participants
+
+-   avoir installé QGIS sur votre ordinateur :
+    [téléchargement](https://www.qgis.org/fr/site/forusers/download.html)
+
+-   avoir installé l’application QField sur votre smartphone ou tablette
+
+<img src="img/qfield.png" id="id" class="class"
+style="width:70.0%;height:70.0%" />
+
+-   avoir installé l’extension QField Sync depuis QGIS :
+    [installation](https://qfield.org/docs/fr/synchronise/qfieldsync.html)
+
+<img src="img/qfield-sync_install1.png" id="id" class="class"
+style="width:70.0%;height:70.0%" />
+
+### Éléments de documentation
 
 En français :
 
