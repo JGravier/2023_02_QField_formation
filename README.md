@@ -17,13 +17,13 @@ CC-BY](https://img.shields.io/badge/License-CCBY-blue.svg)](http://creativecommo
 
 -   avoir installé l’application QField sur votre smartphone ou tablette
 
-<img src="img/qfield.png" id="id" class="class"
+<img src="imgs/qfield.png" id="id" class="class"
 style="width:70.0%;height:70.0%" />
 
 -   avoir installé l’extension QField Sync depuis QGIS :
     [installation](https://qfield.org/docs/fr/synchronise/qfieldsync.html)
 
-<img src="img/qfield-sync_install1.png" id="id" class="class"
+<img src="imgs/qfield-sync_install1.png" id="id" class="class"
 style="width:70.0%;height:70.0%" />
 
 ### Éléments de documentation
